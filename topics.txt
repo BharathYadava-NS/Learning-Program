@@ -1,0 +1,46 @@
+boxing
+unboxing
+value type
+reference type:
+            string
+            dynamic
+            object
+ref param
+out param
+where keyword
+Types of  member functions:  
+Static
+Non static
+inline
+virtual
+pure virtual
+friend
+Anonymous
+partial method 
+[?1/?16/?2018 4:54 PM]  Sandilya Anisetty:  
+Types of classes:
+Sealed
+Abstract
+static
+partial
+friend
+generic
+Types of data member:
+static
+non static
+Delegates
+Events
+Generics
+Collections
+Multithreading
+Exception handling
+for each loop for collections with different data
+Arraylist
+still going with list ignoring AL
+sorted list(indexing, key-value pair)
+hash table
+bit array
+dotnetpearls
+properties/mutators
+indexes 
+ 
